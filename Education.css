@@ -1,0 +1,24 @@
+#abouteducation{
+    border: 2px solid red; height:20cm;width: 100%;
+    font-family: cursive;
+   background-color:black;
+   color:wheat;
+   border-radius: 15cm;
+   
+}
+
+#borderforeducationdetails{
+    border: 2px solid red; height:1.5cm;width: 50%;
+    background-color: brown;
+    border-radius: 60px;
+    margin-left: -1cm;
+    padding-left:-13cm;
+    font-family: cursive;
+    font-size: 0.6cm;
+}
+#edu{
+    font-family: cursive;
+    font-size: 0.4cm;
+   
+
+}

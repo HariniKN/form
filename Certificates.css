@@ -1,0 +1,17 @@
+#certificates{
+ border: 2px red solid;width:100% ;height: 4cm;
+ background-color: lightblue;
+ 
+ border-radius: 20px;
+ font-family: cursive;
+
+}
+#certificateborder{
+    
+    font-size: 3cm;
+    font-family: cursive;
+}
+#cer{
+    font-size:0.9cm;
+    font-family: cursive; 
+}

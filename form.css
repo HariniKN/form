@@ -1,0 +1,14 @@
+#foborder{
+border: 2px solid none;
+width: 100%;
+height: 2cm;
+font-family: cursive;
+font-size: 0.9cm;
+
+}
+
+#form{
+
+font-family: cursive;
+background-color: grey;
+}
